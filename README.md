@@ -1,0 +1,2 @@
+# Crop-Yield-Prediction-Using-Machine-Learning-with-Meteorological-and-Pesticide-Data
+This project focuses on improving crop yield forecasting by integrating meteorological data and pesticide usage statistics with machine learning models. The dataset includes crop types, area, yield values, and region-wise agricultural data. Decision Tree, Random Forest, and XGBoost were implemented and evaluated using MSE, MAE, and R² metrics.
